@@ -9,6 +9,14 @@
                     "default": true
                 },
                 {
+                    "lang": "css",
+                    "name": "CSS",
+                }
+                {
+                    "lang": "html",
+                    "name": "HTML",
+                },
+                {
                     "lang": "go",
                     "name": "Go"
                 }
