@@ -1,4 +1,4 @@
-# FEQ - FrontEnd Questions
+# FEQ - Front-End interview Questions
 
 Front-end interview questions and sample answers.
 
